@@ -1,0 +1,28 @@
+/* Style for the navbar */
+.navbar {
+    padding: 10px 0; /* Adjust the padding as needed */
+}
+
+.navbar-brand img {
+    margin-right: 10px; /* Adjust the margin between the logo and text */
+}
+
+/* Style for the footer */
+footer.navbar {
+    padding: 10px 0; /* Adjust the padding as needed */
+}
+
+/* Style for the footer text */
+footer.navbar h5 {
+    margin: 0; /* Remove default margin */
+}
+
+h2{
+    color:white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    font-size: medium;
+    text-size-adjust: auto;
+    padding: 20px;
+    padding-right: 70px;
+}
